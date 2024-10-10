@@ -1,3 +1,5 @@
+[![An image of @kritsh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kritsh)](https://holopin.io/@kritsh)
+
 # 💫 About Me:
 🔭 I’m currently working on My Portfolio website<br>🌱 I’m currently learning MERN Stack and Docker<br>💬 Ask me about anything you want to<br>⚡ Fun fact I am a Engineering student
 
@@ -20,5 +22,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=krit-sh&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
