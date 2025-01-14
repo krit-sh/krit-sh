@@ -1,5 +1,4 @@
 [![An image of @kritsh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kritsh)](https://holopin.io/@kritsh)
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c7622f7a-78c0-4139-8bf9-3c4c8d6eec8f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 # 💫 About Me:
 🔭 I’m currently working on My Portfolio website<br>🌱 I’m currently learning MERN Stack and Docker<br>💬 Ask me about anything you want to<br>⚡ Fun fact I am a Engineering student
